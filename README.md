@@ -26,7 +26,7 @@ This research explores how trust-building, psychological framing, and token obfu
 
 ## Research Paper
 
-[View Research Paper PDF](./LLM_Jailbreak_Research_Report.pdf)
+[View Research Paper PDF](./Kyle_Theodore_NLP_Research_Report.pdf)
 
 ## My Contributions
 
