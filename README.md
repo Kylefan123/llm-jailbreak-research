@@ -34,3 +34,7 @@ This research explores how trust-building, psychological framing, and token obfu
 - Evaluation methodology
 - Adversarial testing
 - Report development
+
+## Research Report
+
+📄 [Download PDF Report](https://raw.githubusercontent.com/Kylefan123/llm-jailbreak-research/main/Kyle_Theodore_NLP_Research_Report.pdf)
