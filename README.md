@@ -24,8 +24,9 @@ This research explores how trust-building, psychological framing, and token obfu
 - LLaMA Guard
 - GPT-4
 
-## Research Paper
-[View Research Paper PDF](./Kyle_Theodore_NLP_Research_Report.pdf)
+## Research Report
+
+📄 [Download PDF Report](https://raw.githubusercontent.com/Kylefan123/llm-jailbreak-research/main/Kyle_Theodore_NLP_Research_Report.pdf)
 
 ## My Contributions
 
@@ -35,6 +36,4 @@ This research explores how trust-building, psychological framing, and token obfu
 - Adversarial testing
 - Report development
 
-## Research Report
 
-📄 [Download PDF Report](https://raw.githubusercontent.com/Kylefan123/llm-jailbreak-research/main/Kyle_Theodore_NLP_Research_Report.pdf)
